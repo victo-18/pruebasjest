@@ -24,6 +24,11 @@ test("validar clases", () => {
   expect(article).toHaveClass("article");
   //expect(article).toHaveClass("titulo");
 });
-test("validat estilos en el texto", () => {
-  expect(article).toHaveClass("article");
-});
+// test("validar estilos", () => {
+//   expect(article).toHaveStyle(
+//     'color:blue'
+//   )
+// });
+// test("validat estilos en el texto", () => {
+//   expect(article).toHaveClass("article");
+// });

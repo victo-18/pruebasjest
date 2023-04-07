@@ -4,7 +4,7 @@ function Informacion() {
     <div className="contenedor__informacion">
       <article className="article" title="parrafo principal">
         <h1 className="titulo">Create React App</h1>
-        <p className="parrafo">
+        <p className="parrafo" data-testId="contesto">
           Create React App es un ambiente cómodo para aprender React, y es la
           mejor manera de comenzar a construir una nueva aplicación de página
           única usando React. Create React App configura tu ambiente de
